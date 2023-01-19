@@ -1,5 +1,7 @@
 # Text classifier for Sentiment analysis using a Bi-directional Recurrent Neural Network
 
+![RNN - description](https://s3.eu-west-2.amazonaws.com/pavdev.io/nlp/rnn.png)
+
 ## Introduction
 
 Recurrent neural networks (RNNs) were introduced in the 1990s in response to a variety of challenging problems, including motion detection, temporal sequences of events, and ordered data, such as characters in words [1]. As part of ongoing research, Schuster and Kuldip (1997) introduced the idea of bidirectional communication between the hidden layers of an RNN. Such a network can be trained simultaneously in both positive and negative time directions, removing the constraint of using input information only up to a predefined future frame [2].
